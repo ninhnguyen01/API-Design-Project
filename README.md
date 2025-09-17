@@ -1,2 +1,2 @@
 # API-Design-Project
-Application Programming Interfaces (APIs) are an integral part of modern development, allowing software applications to communicate and use functions from other software applications or services.
+Understanding APIs is integral to mastering modern software development, primarily because they allow applications to exchange data and functionality with ease, thus enabling integration and convergence of technological services. 
